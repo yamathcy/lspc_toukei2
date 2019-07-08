@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1562552129802.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C482799F",
+    "lastKnownWriteTime" : 1562552852,
+    "last_content_update" : 1562552852269,
+    "path" : "~/ToukeiBenkyokai_2/t_test_2_noneq_var_sample.R",
+    "project_path" : "t_test_2_noneq_var_sample.R",
+    "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
